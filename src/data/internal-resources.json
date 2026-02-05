@@ -1,0 +1,46 @@
+{
+  "aiPlatform": {
+    "modelGarden": [
+      { "name": "Gemini 1.5 Pro", "description": "High-performance multimodal model" },
+      { "name": "Gemini 1.5 Flash", "description": "Fast and efficient multimodal model" },
+      { "name": "PaLM 2", "description": "Legacy text-only language model" },
+      { "name": "Imagen 3", "description": "State-of-the-art image generation model" }
+    ],
+    "vertexAIStudio": {
+      "name": "Vertex AI Studio",
+      "url": "https://console.cloud.google.com/vertex-ai",
+      "wikiUrl": "https://wiki.abc-corp.com/vertex-ai-studio"
+    },
+    "documentIntelligence": {
+      "name": "Document Intelligence",
+      "url": "https://console.cloud.google.com/vertex-ai/docai",
+      "wikiUrl": "https://wiki.abc-corp.com/document-intelligence"
+    }
+  },
+  "wikiTools": [
+    {
+      "id": "1",
+      "name": "AI Platform",
+      "owner": "AI Core Team",
+      "status": "active",
+      "url": "https://ai-platform.abc-corp.com",
+      "description": "Centralized AI platform for all departments"
+    },
+    {
+      "id": "2",
+      "name": "Pomed Book",
+      "owner": "Knowledge Management",
+      "status": "beta",
+      "url": "https://pomed-book.abc-corp.com",
+      "description": "Collaborative AI prompting and knowledge sharing"
+    },
+    {
+      "id": "3",
+      "name": "MCP Hub",
+      "owner": "Infrastructure Team",
+      "status": "active",
+      "url": "https://mcp-hub.abc-corp.com",
+      "description": "Model Context Protocol hub for connecting agents"
+    }
+  ]
+}

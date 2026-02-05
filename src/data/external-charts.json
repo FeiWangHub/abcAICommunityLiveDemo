@@ -1,0 +1,50 @@
+{
+  "aiModels": [
+    { "rank": 1, "name": "Gemini 3 Pro", "description": "Google's latest flagship model with advanced reasoning.", "category": "AI Model" },
+    { "rank": 2, "name": "Grok-4.1-Thinking", "description": "xAI's high-performance thinking model.", "category": "AI Model" },
+    { "rank": 3, "name": "Gemini 3 Flash", "description": "Google's optimized high-speed multimodal model.", "category": "AI Model" },
+    { "rank": 4, "name": "Claude Opus 4.5", "description": "Anthropic's most capable model for complex tasks.", "category": "AI Model" },
+    { "rank": 5, "name": "GPT-5.2-high", "description": "OpenAI's latest generation model with high reasoning.", "category": "AI Model" },
+    { "rank": 6, "name": "Grok-4.1", "description": "xAI's standard high-performance model.", "category": "AI Model" },
+    { "rank": 7, "name": "ERNIE-5.0", "description": "Baidu's latest flagship large language model.", "category": "AI Model" },
+    { "rank": 8, "name": "Kimi-K2.5-Thinking", "description": "Moonshot AI's advanced thinking model.", "category": "AI Model" },
+    { "rank": 9, "name": "GLM-4.7", "description": "Zhipu AI's state-of-the-art open-source model.", "category": "AI Model" },
+    { "rank": 10, "name": "Qwen3-Max", "description": "Alibaba's most powerful large language model.", "category": "AI Model" }
+  ],
+  "aiIdes": [
+    { "rank": 1, "name": "Cursor", "description": "AI-native IDE with deep codebase awareness and composer mode.", "category": "AI IDE" },
+    { "rank": 2, "name": "Trae", "description": "Adaptive AI IDE from ByteDance for seamless coding experience.", "category": "AI IDE" },
+    { "rank": 3, "name": "VS Code + Copilot", "description": "Industry standard with extensive extension ecosystem.", "category": "AI IDE" },
+    { "rank": 4, "name": "Windsurf", "description": "AI-enhanced IDE built around the Cascade autonomous agent.", "category": "AI IDE" },
+    { "rank": 5, "name": "Zed", "description": "High-performance code editor with built-in AI capabilities.", "category": "AI IDE" },
+    { "rank": 6, "name": "Replit AI", "description": "Cloud-based collaborative IDE with powerful AI agents.", "category": "AI IDE" },
+    { "rank": 7, "name": "Fleet", "description": "JetBrains' lightweight IDE with native AI Assistant.", "category": "AI IDE" },
+    { "rank": 8, "name": "Sublime Text + LSP", "description": "Fastest editor with AI plugins like LSP-Copilot.", "category": "AI IDE" },
+    { "rank": 9, "name": "Neovim + Copilot.vim", "description": "Favorite for terminal users with AI integration.", "category": "AI IDE" },
+    { "rank": 10, "name": "Bolt.new", "description": "Web-based AI IDE for full-stack application generation.", "category": "AI IDE" }
+  ],
+  "modelProviders": [
+    { "rank": 1, "name": "OpenRouter", "description": "Unified interface for accessing hundreds of AI models.", "category": "Provider" },
+    { "rank": 2, "name": "Together AI", "description": "Cloud platform for training and fine-tuning open models.", "category": "Provider" },
+    { "rank": 3, "name": "Hugging Face", "description": "The central hub for open-source AI models and datasets.", "category": "Provider" },
+    { "rank": 4, "name": "DeepInfra", "description": "Scalable infrastructure for running open-source LLMs.", "category": "Provider" },
+    { "rank": 5, "name": "Fireworks AI", "description": "Fast and efficient API for state-of-the-art models.", "category": "Provider" },
+    { "rank": 6, "name": "Groq", "description": "Ultra-fast LPU-based inference for real-time applications.", "category": "Provider" },
+    { "rank": 7, "name": "SambaNova", "description": "High-performance hardware and software for enterprise AI.", "category": "Provider" },
+    { "rank": 8, "name": "Replicate", "description": "Run and deploy machine learning models in the cloud.", "category": "Provider" },
+    { "rank": 9, "name": "RunPod", "description": "GPU cloud platform for training and deploying AI models.", "category": "Provider" },
+    { "rank": 10, "name": "Nebius", "description": "AI-centric cloud platform with high-performance GPUs.", "category": "Provider" }
+  ],
+  "aiTools": [
+    { "rank": 1, "name": "Claude Code", "description": "Anthropic's CLI agent for complex engineering tasks.", "category": "AI Tool" },
+    { "rank": 2, "name": "Cline", "description": "Open-source AI coding assistant for VS Code.", "category": "AI Tool" },
+    { "rank": 3, "name": "OpenCode", "description": "Collaborative AI development platform for open source.", "category": "AI Tool" },
+    { "rank": 4, "name": "Cloud Code", "description": "Google Cloud's extension suite for cloud development.", "category": "AI Tool" },
+    { "rank": 5, "name": "Lovable AI", "description": "AI-powered web application generator for non-developers.", "category": "AI Tool" },
+    { "rank": 6, "name": "v0 by Vercel", "description": "Generative UI system for React and Tailwind components.", "category": "AI Tool" },
+    { "rank": 7, "name": "Manus", "description": "Autonomous AI agent for end-to-end task execution.", "category": "AI Tool" },
+    { "rank": 8, "name": "Zencoder", "description": "AI agent for automating code refactoring and migration.", "category": "AI Tool" },
+    { "rank": 9, "name": "CodeGPT", "description": "Versatile AI extension for multiple code editors.", "category": "AI Tool" },
+    { "rank": 10, "name": "Tabnine", "description": "Private and secure AI code completion for enterprises.", "category": "AI Tool" }
+  ]
+}
